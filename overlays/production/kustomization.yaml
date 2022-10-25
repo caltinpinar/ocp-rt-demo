@@ -5,5 +5,5 @@ bases:
   - ../../base
 
 resources:
-- route.yaml
-namePrefix: dev-
+- route-prod.yaml
+namePrefix: prod-
